@@ -14,6 +14,10 @@ In Costa Rica, you can purchase the controller at [CrCibernetica.com](http://www
 - pivotRight(int mSpeed, int t), turns left with mSpeed for t milliseconds
 - stopMotors(), this function just stop the motors.
 
+##Usage
+
+Inside the setup() section  include the command setMotors(), this will setup all motor pins.
+
 ##Instalation
 
 Download ZIP file and [follow Arduino instalation instructions](http://www.arduino.cc/en/Guide/Libraries)
