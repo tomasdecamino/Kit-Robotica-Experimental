@@ -4,6 +4,6 @@ This library allows is just simplifies writting code for teh S4A EDU controller,
 
 ##Functions
 
--forward(int mSpeed, int t).  Makes both DC motors move forward with speed mSpped for t milliseconds
+--forward(int mSpeed, int t).  Makes both DC motors move forward with speed mSpped for t milliseconds
 
--backward(int mSpeed, int t).  Makes both DC motors move backward with speed mSpped for t milliseconds
+--backward(int mSpeed, int t).  Makes both DC motors move backward with speed mSpped for t milliseconds
