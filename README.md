@@ -13,3 +13,8 @@ In Costa Rica, you can purchase the controller at [CrCibernetica.com](http://www
 - pivotLeft(int mSpeed, int t), turns left with mSpeed for t milliseconds
 - pivotRight(int mSpeed, int t), turns left with mSpeed for t milliseconds
 - stopMotors(), this function just stop the motors.
+
+
+##Fundación Costa Rica para la Innovación
+
+This is part of educational proyects made by [Fundación Costa Rica para la Innovación](http://funcostarica.org/)
