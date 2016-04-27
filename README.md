@@ -2,6 +2,8 @@
 
 This library allows is just simplifies writting code for teh S4A EDU controller, so students can quickly use motor movement funcions.
 
+In Costa Rica, you can purchase the controller at [CrCibernetica.com](http://www.crcibernetica.com/s4a-edu-robotic-controller/)
+
 ##Functions
 
 - forward(int mSpeed, int t).  Makes both DC motors move forward with speed mSpped for t milliseconds
