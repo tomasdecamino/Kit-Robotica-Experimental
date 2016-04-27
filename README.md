@@ -17,4 +17,4 @@ In Costa Rica, you can purchase the controller at [CrCibernetica.com](http://www
 
 ##Fundación Costa Rica para la Innovación
 
-This is part of educational proyects made by [Fundación Costa Rica para la Innovación](http://funcostarica.org/)
+This is part of educational projects made by [Fundación Costa Rica para la Innovación](http://funcostarica.org/)
