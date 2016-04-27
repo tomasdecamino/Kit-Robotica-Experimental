@@ -16,7 +16,7 @@ In Costa Rica, you can purchase the controller at [CrCibernetica.com](http://www
 
 ##Usage
 
-Inside the setup() section  include the command setMotors(), this will setup all motor pins.
+Inside the setup() section  include the command setMotors(), this will setup all motor pins. Then use movement functions described above in the loop() section of the code
 
 ##Instalation
 
