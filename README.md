@@ -5,6 +5,7 @@ El kit de robótica experimental es un kit de bajo costo desarrollado por la [Fu
 ##Contenido del Kit
 
 El kit contiene:
+
 1. Controlador S4A EDU
 2. Dos motores DC
 3. Motor servo pequeño
