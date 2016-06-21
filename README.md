@@ -15,7 +15,7 @@ El kit contiene:
 8. Chasis y ruedas MDF
 9. Tiras de plástico
 10. Tornillos y tuercas
-11. Switch
+11. Switch 
 
 ##Intrucciones de armado
 
