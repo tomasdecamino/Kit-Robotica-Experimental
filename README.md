@@ -1,4 +1,34 @@
-# RobotKit
+#Kit Robótica Experimental
+
+El kit de robótica experimental es un kit de bajo costo desarrollado por la [Fundación Costa Rica para la Innovación](http://funcostarica.org/), para sus programas de enseñanza de tencología.  Este contenido se utiliza en particuloar para los programas de [Inventoría](https://www.facebook.com/inventoria/) y de [Makernel](https://www.facebook.com/MaKernel-121047394904445/)
+
+##Contenido del Kit
+
+El kit contiene:
+1. Controlador S4A EDU
+2. Dos motores DC
+3. Motor servo pequeño
+4. 1 x neopixel
+5. Sensor de luz
+6. Sensor de gas
+7. Bluetooth
+8. Chasis y ruedas MDF
+9. Tiras de plástico
+10. Tornillos y tuercas
+11. Switch
+
+##Intrucciones de armado
+
+Las instrucciones de construcción están publicadas en [Instructables.com](http://www.instructables.com/id/KIt-Robot-Arduino-De-Inventoria-Ensamblado/)
+
+##Temas de desarrollo
+
+1. Agentes reactivos y reflexivos
+2. Agnetes colectivos (estigmergia)
+3. Agentes Inteligentes
+
+
+# Librería RobotKit
 
 This library allows is just simplifies writting code for teh S4A EDU controller, so students can quickly use motor movement funcions.
 
