@@ -10,6 +10,8 @@ Básicamente en un robot debemos:
 4. Navegación en medio
 5. Acciones estímulo respuesta
 6. Análisis y cálculo de acciones del robot
+7. Comunicación con el robot
+8. Comunicación entre robots
 
 Hay varios paradigmas, o filosofías de robótica: jerárquico, reactivo e inteligentes. Pero en todas este un robot debe `SENSAR`, `PLANEAR` y `ACTUAR`. Es decir un robto de alguna manera si es una idea mecánica de un ser vivo, en el sentido de que es una máquina que percibe un entornoo y reacciona ante él de manera "instintiva" o inteligente, o combinciones de ella.
 
