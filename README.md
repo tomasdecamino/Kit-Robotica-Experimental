@@ -26,7 +26,7 @@ Las instrucciones de construcción están publicadas en [Instructables.com](http
 
 ##Comunicación bluetooth
 
-En este [instructable](http://www.instructables.com/preview/E0SIN7VINUVC7BY/) se dan detalles para conectar el módulo bluetooth al robot
+En este [instructable](http://www.instructables.com/id/Kit-Robotica-Experimental-Bluetooth/) se dan detalles para conectar el módulo bluetooth al robot
 
 ##Temas de desarrollo
 
