@@ -33,5 +33,8 @@ Un agente reactivo, establece una relación funcional directa entre la infromaci
 
 Construir un robot que con un sensor de luz, después de un tiempo razonable, se matenga o dirija hacia la luz  Se supone que el movimiento debe ser inversamente proporcional a la cantidad de luz, es decir se mueve mucho cuando hay poca luz y se mueve poco cuando hay mucha luz.
 
-nota: se puede basar en algunos de los códigos que se proveen de ejemplo.
+Sugerencias:
+
+* Que el robot haga movimiento ondulatorios para medir la luz y a partir de allí moverse
+* Hacer una relación inversa entre la lectura del sensor de luz y la respuesta de los motores
 
