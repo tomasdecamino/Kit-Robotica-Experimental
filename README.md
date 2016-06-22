@@ -1,4 +1,4 @@
-<img src="https://github.com/tomasdecamino/Kit-Robotica-Experimental/blob/master/DSC_1220.jpg" width="300">
+<img src="https://github.com/tomasdecamino/Kit-Robotica-Experimental/blob/master/DSC_1220.jpg" width="300"><img src="https://github.com/tomasdecamino/Kit-Robotica-Experimental/blob/master/DSC_1222.jpg" width="300">
 
 #Kit Robótica Experimental
 
