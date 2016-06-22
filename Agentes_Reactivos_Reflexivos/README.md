@@ -15,12 +15,14 @@ Hay varios paradigmas, o filosofías de robótica: jerárquico, reactivo e intel
 
 El modelo jerárquico se complen las tareas del robot estrictametne en el siguiente orden:
 
-<img src="https://github.com/tomasdecamino/Kit-Robotica-Experimental/blob/master/Agentes_Reactivos_Reflexivos/Hierarchical.JPG" width="300">
+<img src="https://github.com/tomasdecamino/Kit-Robotica-Experimental/blob/master/Agentes_Reactivos_Reflexivos/Hierarchical.JPG" width="500">
 
 En el modelo reactivo-reflexivo, el PLANEAR constituye una especie de plan genético de funcionamiento, que está "hardwired" en el robot
-<img src="https://github.com/tomasdecamino/Kit-Robotica-Experimental/blob/master/Agentes_Reactivos_Reflexivos/Reactive.JPG" width="300">
+
+<img src="https://github.com/tomasdecamino/Kit-Robotica-Experimental/blob/master/Agentes_Reactivos_Reflexivos/Reactive.JPG" width="500">
 
 El modelo inteligente el robot funciona casic como reactivo, sin embargo va aprendiendo y creando un plan en el proceso. También puede tener acciones reflexivas y otras donde existe un plan que se va creando de manera dinámica.
-<img src="https://github.com/tomasdecamino/Kit-Robotica-Experimental/blob/master/Agentes_Reactivos_Reflexivos/Intelligent.JPG" width="300">
+
+<img src="https://github.com/tomasdecamino/Kit-Robotica-Experimental/blob/master/Agentes_Reactivos_Reflexivos/Intelligent.JPG" width="500">
 
 #Agentes Reactivos y Reflexivos
