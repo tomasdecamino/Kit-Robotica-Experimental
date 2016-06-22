@@ -1,3 +1,5 @@
+<img src="https://github.com/tomasdecamino/Kit-Robotica-Experimental/blob/master/DSC_1220.jpg" width="300">
+
 #Kit Robótica Experimental
 
 El kit de robótica experimental es un kit de bajo costo desarrollado por la [Fundación Costa Rica para la Innovación](http://funcostarica.org/), para sus programas de enseñanza de tencología.  Este contenido se utiliza en particuloar para los programas de [Inventoría](https://www.facebook.com/inventoria/) y de [Makernel](https://www.facebook.com/MaKernel-121047394904445/)
