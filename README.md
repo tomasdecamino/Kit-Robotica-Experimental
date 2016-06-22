@@ -31,7 +31,7 @@ En este [instructable](http://www.instructables.com/id/Kit-Robotica-Experimental
 ##Temas de desarrollo
 
 1. Agentes reactivos y reflexivos
-2. Agnetes colectivos (estigmergia)
+2. [Agnetes colectivos (estigmergia)](https://github.com/tomasdecamino/Kit-Robotica-Experimental/tree/master/Agentes_Colaborativos)
 3. Agentes Inteligentes
 
 
