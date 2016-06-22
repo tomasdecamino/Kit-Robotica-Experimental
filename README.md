@@ -63,6 +63,11 @@ Download ZIP file and [follow Arduino instalation instructions](http://www.ardui
 
 This is part of educational projects made by [Fundación Costa Rica para la Innovación](http://funcostarica.org/)
 
+#Más proyectos de robótica
+
+Pueden encontrar más proyectos en esta [colección de Instructables](http://www.instructables.com/id/Rob%C3%B3tica-Experimental/).
+
+
 #Sobre este GitHub
 
 El material creado en este repositorio, corresponden a desarrollos y notas del clase del Profesor Dr. Tomás de Camino Beck, y serán modificados de forma dinámica, y adaptados por todos aquellos que quieran contribuir.
