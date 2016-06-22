@@ -2,7 +2,7 @@
 
 Un agente reactivo, establece una relación funcional directa entre la infromación que el robot percibe a través de sus sensores y una reacción.  Se puede establecer esa relación como una relación de proporcionalidad.
 
-<img src="https://github.com/tomasdecamino/Kit-Robotica-Experimental/blob/master/Agentes_Reactivos_Reflexivos/Reactive.JPG" width="500">
+<img src="https://github.com/tomasdecamino/Kit-Robotica-Experimental/blob/master/Agentes_Reactivos_Reflexivos/Reactive.JPG" width="600">
 
 Para este ejercicio utilizaremos solamente el sensor de luz. El sensor da una lectura alta cuando hay poca luz, y una baja cuando la luz es intensa.  El sensor de luz del kit se conecta directamente en los conectores analógicos o digitales del controlador.  En principio, la placa del sensor, tiene un divisor de voltaje como el que se [muestra acá](http://www.instructables.com/id/Sensor-de-luz-y-divisor-de-voltaje/).
 
