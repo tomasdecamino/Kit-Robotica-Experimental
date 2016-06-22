@@ -24,6 +24,10 @@ El kit contiene:
 
 Las instrucciones de construcción están publicadas en [Instructables.com](http://www.instructables.com/id/KIt-Robot-Arduino-De-Inventoria-Ensamblado/)
 
+##Comunicación bluetooth
+
+En este [instructable](http://www.instructables.com/preview/E0SIN7VINUVC7BY/) se dan detalles para conectar el módulo bluetooth al robot
+
 ##Temas de desarrollo
 
 1. Agentes reactivos y reflexivos
