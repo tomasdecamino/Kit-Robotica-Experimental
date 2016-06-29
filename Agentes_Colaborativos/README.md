@@ -12,7 +12,7 @@ Cnstruya el robot y agreguele el colector, el switch y el sensor infrarojo, como
 2. SI hay un obstáculo, entonces cambiar el ángulo aleatoriamente, sin perder las velas que ya tiene recolectadas
 3. SI se activa el switch, echar para atrás el tiempo suficiente para liberar las velas, y moverse en ángulo aleatorio.
 
-¿Cual es el resultado final?
+¿Cual es el resultado final? Este ejercicio está basado en la investigación de [Beckers et al 1994](http://www.eecs.harvard.edu/~rad/courses/cs266/papers/beckers-alife94.pdf)
 
 ##Sigamos la luz
 
