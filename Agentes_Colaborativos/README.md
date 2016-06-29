@@ -4,6 +4,8 @@ Los agentes o robots colaborativos, realizan tareas  comunicandose con otros rob
 
 EL kit trae un bluetooth lo cul permitiría hacerlo, y este proyecto se publicará más adelante. Otra forma de comunicacion , se le llama estigmergia, y es una forma de comunicación donde los robots obtienen información de lo que están haciendo otros, a través de señales en el medio.
 
+#Retos
+
 ##Estigmergia
 
 Cnstruya el robot y agreguele el colector, el switch y el sensor infrarojo, como se explica en este instructable.  Ahora tratarémos de resolver lo siguiente:  ¿Como agrupar en clusters ordenados las velas?, intentemos las siguientes acciones.
