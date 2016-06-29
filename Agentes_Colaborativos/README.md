@@ -2,7 +2,7 @@
 
 Los agentes o robots colaborativos, realizan tareas  comunicandose con otros robots para poder resolver un problema.  EL resultado se optioene por colaboración de las actividades de los robots. Para lograr esto, por lo general los robos deben comunicarse de alguna manera.
 
-EL kit trae un bluetooth lo cul permitiría hacerlo, y este proyecto se publicará más adelante. Otra forma de comunicacion , se le llama estigmergia, y es una forma de comunicación donde los robots obtienen información de lo que están haciendo otros, a través de señales en el medio.
+EL kit trae un bluetooth lo cual permitiría hacerlo, y este proyecto se publicará más adelante. Otra forma de comunicacion , se le llama estigmergia, y es una forma de comunicación donde los robots obtienen información de lo que están haciendo otros, a través de señales en el medio.
 
 #Retos
 
