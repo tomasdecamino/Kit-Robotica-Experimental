@@ -1,6 +1,10 @@
 /* @author: Tomas de Camino Beck
  * April 2016 
  * www.funcostarica.org
+ 
+Made for teaching poruposes www.funcostarica.org
+Released under MIT License
+Copyright (c) 2016 Tomas de-Camino-Beck
  */
 
 
