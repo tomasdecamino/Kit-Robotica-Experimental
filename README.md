@@ -43,6 +43,7 @@ In Costa Rica, you can purchase the controller at [CrCibernetica.com](http://www
 
 ##Functions
 
+- setMotors(). Called this first inside the setup function to assign motor pins
 - forward(int mSpeed, int t).  Makes both DC motors move forward with speed mSpped for t milliseconds
 - forward(int lSpeed, int rSpeed, int t) , moves with different left and right speed
 - backward(int mSpeed, int t).  Makes both DC motors move backward with speed mSpped for t milliseconds
