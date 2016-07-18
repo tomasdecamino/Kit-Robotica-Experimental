@@ -8,7 +8,7 @@ Básicamente estos robots muestran patrones de comportamiendo ordenados y no obe
 
 Para este ejercicio utilizaremos solamente el sensor de luz. El sensor da una lectura alta cuando hay poca luz, y una baja cuando la luz es intensa.  El sensor de luz del kit se conecta directamente en los conectores analógicos o digitales del controlador.  En principio, la placa del sensor, tiene un divisor de voltaje como el que se [muestra acá](http://www.instructables.com/id/Sensor-de-luz-y-divisor-de-voltaje/).
 
-Un ejemplo de còdigo lo encuentran en la carpeta `RobotKit_LightReflex`. En ese código, la rotación y movimiento hacia adelanta estproporcionalmente relacionado con la cantidad de luz que recibe el sensor.  Mientras más luz, mayor movimiento hacia adelante y menor el movimiento de rotaciones. En contraste, comparen con el código `RobotKit_LightPlan` donde se lee el sensor, y luego se revisa el plan, para luego ejecutar una acción.
+
 
 ##Reto
 
@@ -22,5 +22,9 @@ Construir un robot que con un sensor de luz, después de un tiempo razonable, se
 ###Preguntas
 
 ¿Cómo sería el algoritmo si siguiera el paradigma jerárquivo?, es decir, que primero mida la luz, ñuego construya un plan y luego lo ejecute.
+
+###Ejemplo para empezar
+
+Un ejemplo de còdigo lo encuentran en la carpeta `RobotKit_LightReflex`. En ese código, la rotación y movimiento hacia adelanta estproporcionalmente relacionado con la cantidad de luz que recibe el sensor.  Mientras más luz, mayor movimiento hacia adelante y menor el movimiento de rotaciones. En contraste, comparen con el código `RobotKit_LightPlan` donde se lee el sensor, y luego se revisa el plan, para luego ejecutar una acción.
 
 
