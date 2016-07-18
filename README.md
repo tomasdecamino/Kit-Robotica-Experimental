@@ -51,6 +51,11 @@ In Costa Rica, you can purchase the controller at [CrCibernetica.com](http://www
 - pivotLeft(int mSpeed, int t), turns left with mSpeed for t milliseconds
 - pivotRight(int mSpeed, int t), turns left with mSpeed for t milliseconds
 - stopMotors(), this function just stop the motors.
+- randomForward(int t), moves forward left or right fot t milliseconds
+- randomPivot(int p, int t) pivots left or roght with power p and for t milliseconds
+- setSensor(int sensorPin) sets pinMode INPUT for pin sensorPin
+- readSensor(int sensorPin) reads an analog sensor conected in sensorPin
+- pointLight(int sensorPin) assuming there is a light sensor in sensorPin, rotates the robot to the light
 
 ##Usage
 
