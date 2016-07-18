@@ -24,7 +24,7 @@ El kit contiene:
 
 Las instrucciones de construcción están publicadas en [Instructables.com](http://www.instructables.com/id/KIt-Robot-Arduino-De-Inventoria-Ensamblado/). Pueden ver este video de como se arma:
 
-<img src="armadorobotkit.png" width="350">
+<a href="https://www.youtube.com/watch?v=6NPfApTr_x8" target="_blank"><img src="armadorobotkit.png" width="350">
 
 
 ##Comunicación bluetooth
