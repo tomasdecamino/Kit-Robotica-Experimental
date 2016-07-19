@@ -10,6 +10,6 @@ void setup() {
 void loop() {
   // put your main code here, to run repeatedly:
   int val = map(readSensor(A0), 0, 1023, 1000, 0); //apunta el robot hacia la luz
-  randomPivot(100, 500);
+  randomPivot(100, val);
   forward(100, val); //camina hacia adelante por 200 milisegundos
 }
