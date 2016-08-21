@@ -3,7 +3,6 @@
 */
 
 #include <RobotKit.h>
-#include <IRremote.h>
 
 int RECV_PIN = 7;
 
